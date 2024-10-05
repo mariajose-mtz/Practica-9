@@ -1,0 +1,70 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #f0e5de;
+    font-family: 'Arial', sans-serif;
+}
+
+
+.swift-title {
+    color: #ff69b4; 
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+
+.bg-pastel-pink {
+    background-color: #ffcccb; 
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #e91e63; 
+}
+
+
+.table-hover tbody tr:hover {
+    background-color: #ffe4e1; 
+}
+
+.thead-swift {
+    background-color: #ff69b4; 
+    color: white;
+}
+
+
+.card-swift {
+    border: 2px solid #ffb6c1;
+    background-color: #fff0f5; 
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+}
+
+.card-swift:hover {
+    transform: scale(1.05); 
+}
+
+
+.bg-pastel-blue {
+    background-color: #add8e6; 
+}
+
+footer h6 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer p {
+    font-style: italic;
+}
